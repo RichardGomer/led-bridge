@@ -1,0 +1,15 @@
+{
+    "name": "richardgomer/led-bridge",
+    "description": "A UDP to MQTT bridge for controlling Tasmota RBG devices from e.g. Hyperion",
+    "type": "project",
+    "require": {
+        "binsoul/net-mqtt-client-react": "^0.7.2",
+        "react/datagram": "^1.5.0"
+    },
+    "authors": [
+        {
+            "name": "Richard Gomer",
+            "email": "richard@richardgomer.co.uk"
+        }
+    ]
+}
